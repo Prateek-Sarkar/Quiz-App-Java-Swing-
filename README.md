@@ -8,3 +8,8 @@
 <br> -Clean, minimalistic UI
 
 <br> This project demonstrates core Java programming skills along with the use of the Swing framework for building graphical user interfaces.
+
+### <br>Video of the App
+
+https://github.com/user-attachments/assets/eebc2b74-6af9-42ac-83af-c6d7a8a5fd48
+
